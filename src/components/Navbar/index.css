@@ -1,0 +1,51 @@
+.navbar-bg{
+    background-color: #202020;
+    padding:10px;
+    width:100%;
+    /* padding-left:100px;
+    padding-right: 100px; */
+    ul{
+        padding:0;
+        margin:0;
+        list-style-type: none;
+    }
+}
+
+.navbar-links{
+    color:white;
+    font-family: "Roboto";
+    margin:10px;
+    cursor: pointer;
+    text-decoration: none;
+    :hover{
+        color:white;
+        text-decoration: underline;
+    }
+}
+
+.navbar-logo-section{
+    height:40px;
+    width:auto;
+}
+
+.logout-button{
+    border:0;
+        background-color: #6366f1;
+        color:white;
+        font-family:"Roboto";
+        font-size:12px;
+        height:35px;
+        margin: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 10px;
+        cursor: pointer;
+        
+}
+
+
+/* @media (max-width:0) and (max-width:321){
+    .navbar-bg{
+        background-color: red;
+    }
+} */

@@ -1,0 +1,15 @@
+.not-found{
+    height: 100vh;
+    div{
+        img{
+            height:300px;
+            width:300px;
+        }
+        h1{
+            color:red;
+            text-align: center;
+            font-family: "Roboto";
+            font-weight: bold;
+        }
+    }
+}

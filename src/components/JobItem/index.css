@@ -1,0 +1,79 @@
+.job-item-container{
+    margin-bottom:15px;
+    background-color: #202020;
+    padding:20px;
+    border-radius:10px;
+}
+
+.company-logo-job-item{
+    height:40px;
+    width:42px;
+    margin-right: 10px;
+}
+
+.company-image-life{
+height:auto
+}
+
+.job-title{
+    color:white;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.star-icon{
+    color: gold;
+    font-size:16px;
+}
+.rating-section{
+    font-size:18px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: white;
+}
+
+.location-icon{
+    color: white;
+    font-size:16px;
+    margin-right: 7px;
+    padding:0;
+}
+
+.location-section{
+    font-size:14px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: 400;
+    margin-right: 20px;
+    margin-top: 3px;
+}
+
+.salary-section{
+    padding: 0;
+    margin: 0;
+    font-size:14px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: bold;
+}
+
+.description-heading{
+    padding: 0;
+    margin-top: 20px;
+    font-size:18px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.description{
+    padding: 0;
+    margin: 0;
+    font-size:14px;
+    font-family: "Roboto";
+    color: white;
+    /* font-weight: bold; */
+}
+
