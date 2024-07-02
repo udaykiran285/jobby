@@ -110,9 +110,9 @@ const JobItemDetails = (props) => {
                                 </div>
                             </div>
                             <p className="description-heading-job-item">Life At company</p>
-                            <div className='row d-flex flex-column '>
-                                <p className="description-job-item col-11 col-md-5">{description}</p>
-                                <img src={image_url} alt="company" className='company-image-life col-11 col-md-5'/>    
+                            <div className='row'>
+                                <p className="description-job-item col-11 col-md-6">{description}</p>
+                                <img src={image_url} alt="company" className='company-image-life col-11 col-md-6'/>    
                             </div>
                         </div>
                         <h1 className='similar-jobs-main-heading'>Similar Jobs</h1>
