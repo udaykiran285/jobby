@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jobby/static/css/main.9f8e9236.css",
-    "main.js": "/jobby/static/js/main.72427d98.js",
+    "main.js": "/jobby/static/js/main.1af22fd7.js",
     "static/js/453.9c45c17c.chunk.js": "/jobby/static/js/453.9c45c17c.chunk.js",
     "index.html": "/jobby/index.html",
     "main.9f8e9236.css.map": "/jobby/static/css/main.9f8e9236.css.map",
-    "main.72427d98.js.map": "/jobby/static/js/main.72427d98.js.map",
+    "main.1af22fd7.js.map": "/jobby/static/js/main.1af22fd7.js.map",
     "453.9c45c17c.chunk.js.map": "/jobby/static/js/453.9c45c17c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f8e9236.css",
-    "static/js/main.72427d98.js"
+    "static/js/main.1af22fd7.js"
   ]
 }
