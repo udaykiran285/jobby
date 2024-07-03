@@ -102,7 +102,7 @@ const JobItemDetails = (props) => {
                                     {skills.map(eachItem =>{
                                     const {name,image_url} = eachItem
                                     return(
-                                        <div className='col-12 col-md-4 d-flex align-items-center skill-container'>
+                                        <div className='col-12 col-sm-6 col-md-4 d-flex align-items-center skill-container'>
                                             <img src={image_url} alt="skill"className='skill-image' />
                                             <p>{name}</p>
                                         </div>
